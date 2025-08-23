@@ -1,5 +1,6 @@
 /bib2020venv
 data1_nopunct/
+data1_wpunct/
 diff_ttr_sorted.csv
 lemma_counts_sorted.csv
 token_counts_sorted.csv
