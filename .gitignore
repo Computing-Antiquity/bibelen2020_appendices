@@ -1,2 +1,11 @@
 /bib2020venv
 data1_nopunct/
+diff_ttr_sorted.csv
+lemma_counts_sorted.csv
+token_counts_sorted.csv
+excluded_words_1992_full_list.csv
+lemmatized_dataset_book.csv
+new_words_2020_full_list.csv
+stopord_351_berteltorptxt.txt
+stopwords.txt
+token_counts_sorted.csv
